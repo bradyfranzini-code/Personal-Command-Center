@@ -1,0 +1,10 @@
+{
+  "name":"Personal Command Center",
+  "short_name":"Command Center",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f5f6f8",
+  "theme_color":"#10141a",
+  "description":"A local-first personal school and career operating system.",
+  "icons":[]
+}
